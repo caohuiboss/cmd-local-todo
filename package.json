@@ -6,9 +6,9 @@
   "files": [
     "*.js"
   ],
-  "version": "1.0.4",
+  "version": "1.0.5",
   "keywords": ["todo","local","cmd"],
-  "description": "这是一个Node.js控制台的Todo应用",
+  "description": "这是基于Node.js控制台的本地化Todo应用",
   "main": "index.js",
   "author": "TimeGod",
   "license": "ISC",
