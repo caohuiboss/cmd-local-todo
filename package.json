@@ -1,0 +1,19 @@
+{
+  "name": "cmd-local-todo",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "version": "1.0.4",
+  "keywords": ["todo","local","cmd"],
+  "description": "这是一个Node.js控制台的Todo应用",
+  "main": "index.js",
+  "author": "TimeGod",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^7.0.0"
+  }
+}
